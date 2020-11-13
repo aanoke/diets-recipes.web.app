@@ -33,7 +33,7 @@ sectionPagesMenu = "main"
   navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
   showPostSummary = false
   wrapperMaxWidth = ""
-  mainSections = ["bread","chicken","mix","soup","keto"]
+  mainSections = ["bread","chicken","mix","soup","keto","vegetarian"]
   [params.social.share]
     facebook = true
     linkedin = true
