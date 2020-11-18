@@ -33,7 +33,7 @@ sectionPagesMenu = "main"
   navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
   showPostSummary = false
   wrapperMaxWidth = ""
-  mainSections = ["bread","chicken","mix","soup","keto","vegetarian"]
+  mainSections = ["bread","chicken","dairy free","healthy","mix","soup","keto","vegetarian"]
   [params.social.share]
     facebook = true
     linkedin = true
@@ -66,7 +66,7 @@ sectionPagesMenu = "main"
 
 [author]
     name = "Om Aladine"
-    homepage = "https://newxtheme.web.app/"
+    homepage = "https://diets-recipes.web.app/"
     bio = "True Healhty Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 

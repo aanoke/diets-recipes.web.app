@@ -1,0 +1,93 @@
+---
+description: "Recipe of Award-winning Tex-Mex Healthy Chicken Menudo"
+title: "Recipe of Award-winning Tex-Mex Healthy Chicken Menudo"
+slug: 58-recipe-of-award-winning-tex-mex-healthy-chicken-menudo
+date: 2020-11-05T08:43:10.345Z
+image: https://img-global.cpcdn.com/recipes/51c9d918e25a5142/751x532cq70/tex-mex-healthy-chicken-menudo-recipe-main-photo.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/51c9d918e25a5142/751x532cq70/tex-mex-healthy-chicken-menudo-recipe-main-photo.jpg
+cover: https://img-global.cpcdn.com/recipes/51c9d918e25a5142/751x532cq70/tex-mex-healthy-chicken-menudo-recipe-main-photo.jpg
+author: Millie Atkins
+ratingvalue: 4.3
+reviewcount: 12111
+recipeingredient:
+- "1 lb Chicken breast cut into cubes"
+- "1 can tomato sauce"
+- "2 potatoes peeled and cut into cubes"
+- " Carrots diced"
+- "1 medium sized onion chopped"
+- "2 garlic chopped"
+- "1 green and 1 red bell peppers chopped"
+- " Soy sauce"
+- " Lemon juice"
+- " Garlic powder"
+- "cubes Chicken stock or"
+- " Water"
+- " Raisins"
+recipeinstructions:
+- "In a bowl marinate chicken pieces in lemon or lime juice, soy sauce, and garlic powder and mix and marinate for 30 min."
+- "In a pan Or Kawali heat oil cook onion and garlic until onion is translucent then add and cook chicken including the marinade cook until outer layer of chicken has turned brown then add the tomato sauce and chicken stock if you don’t have chicken stock add water while boiling add chicken cubes and stir. Reduce"
+- "Add the raisins, carrots and potatoes and cover. If you need to add more water or stock do so dish may dry out season with pepper. Then add the bell peppers I’m using yellow because I’m out of green or red and optional I added some corn to make it Tex-Mex Style."
+- "You can serve it with rice, tortillas, or bread or eat it by itself."
+categories:
+- Recipe
+tags:
+- texmex
+- healthy
+- chicken
+
+katakunci: texmex healthy chicken 
+nutrition: 278 calories
+recipecuisine: American
+preptime: "PT40M"
+cooktime: "PT58M"
+recipeyield: "4"
+recipecategory: Lunch
+
+---
+
+
+![Tex-Mex Healthy Chicken Menudo](https://img-global.cpcdn.com/recipes/51c9d918e25a5142/751x532cq70/tex-mex-healthy-chicken-menudo-recipe-main-photo.jpg)
+
+Hey everyone, it is Drew, welcome to our recipe page. Today, we're going to make a distinctive dish, tex-mex healthy chicken menudo. It is one of my favorites food recipes. This time, I am going to make it a bit tasty. This is gonna smell and look delicious.
+
+Menudo is Traditionally served at the Mexican table on Sundays, its all so enjoyed by many Texans as well. Menudo is a Spicy soup with Miraculous hangover. How to Make Pozole. &#34;Menudo&#34; Homemade Tex-Mex. elrabbitsbbq. Healthy Chicken menudo is a variation of the pork menudo, except that has way less fat and there are also no livers added.
+
+Tex-Mex Healthy Chicken Menudo is one of the most popular of recent trending foods in the world. It's simple, it is fast, it tastes delicious. It's appreciated by millions daily. They are fine and they look fantastic. Tex-Mex Healthy Chicken Menudo is something which I have loved my entire life.
+
+
+To begin with this particular recipe, we must prepare a few ingredients. You can have tex-mex healthy chicken menudo using 13 ingredients and 4 steps. Here is how you can achieve that.
+
+<!--inarticleads1-->
+
+##### The ingredients needed to make Tex-Mex Healthy Chicken Menudo:
+
+1. Make ready 1 lb Chicken breast cut into cubes
+1. Take 1 can tomato sauce
+1. Make ready 2 potatoes peeled and cut into cubes
+1. Get  Carrots diced
+1. Take 1 medium sized onion chopped
+1. Make ready 2 garlic chopped
+1. Make ready 1 green and 1 red bell peppers chopped
+1. Get  Soy sauce
+1. Make ready  Lemon juice
+1. Prepare  Garlic powder
+1. Make ready cubes Chicken stock or
+1. Make ready  Water
+1. Take  Raisins
+
+
+I knew that I could wrap it up in a burrito for my kids, while my wife and I added it to our salad. Our slimming-friendly Tex Mex Chicken is just as good as a restaurant version, but perfect if you&#39;re calorie counting of following Weight Watchers! Deep in the heart of Texas, they love chicken enchiladas. Tex-Mex chicken with authentic flavor is as easy as combining seven ingredients in a slow cooker—and adding a sprinkle of cheese before serving. 
+
+<!--inarticleads2-->
+
+##### Steps to make Tex-Mex Healthy Chicken Menudo:
+
+1. In a bowl marinate chicken pieces in lemon or lime juice, soy sauce, and garlic powder and mix and marinate for 30 min.
+1. In a pan Or Kawali heat oil cook onion and garlic until onion is translucent then add and cook chicken including the marinade cook until outer layer of chicken has turned brown then add the tomato sauce and chicken stock if you don’t have chicken stock add water while boiling add chicken cubes and stir. Reduce
+1. Add the raisins, carrots and potatoes and cover. If you need to add more water or stock do so dish may dry out season with pepper. Then add the bell peppers I’m using yellow because I’m out of green or red and optional I added some corn to make it Tex-Mex Style.
+1. You can serve it with rice, tortillas, or bread or eat it by itself.
+
+
+Deep in the heart of Texas, they love chicken enchiladas. Tex-Mex chicken with authentic flavor is as easy as combining seven ingredients in a slow cooker—and adding a sprinkle of cheese before serving. Toss chicken with seasoning mix and flour in slow cooker sprayed with cooking spray. Add peppers, corn and salsa; mix lightly. It&#39;s a delicious gluten free meal. 
+
+So that is going to wrap this up for this special food tex-mex healthy chicken menudo recipe. Thank you very much for your time. I'm sure that you will make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
